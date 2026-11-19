@@ -51,8 +51,6 @@ Lines longer than 15 characters are rejected, not truncated.
 | Cover the LDR | State NIGHT, lamp 20 % |
 | Motion at night | Lamp 100 %, back to 20 % after ~5 s |
 | LDR value near the threshold | No flicker |
-| `MANU 50`, `MANU 150`, `AUTO` | Lamp 50 %, 100 %, back to automatic |
-| Unknown or over-long command | Rejected, lamp unaffected |
 
 ## Possible next steps
 
