@@ -4,7 +4,9 @@ A prototype streetlight on an ESP32: it turns on when it gets dark, brightens wh
 
 > **Origin:** inspired by a mini-project from my Co-design module (ISITCom, Arduino Uno, push button as presence simulator). I rebuilt it on an ESP32 with a real PIR motion sensor. The code was written with AI assistance and tested on my own hardware.
 
-![Wiring](images/wiring.jpg)
+![Wiring](images/wiring.jpeg)
+- [Prototype in action](videos/prototype-demo.mp4)
+- [Serial monitor output while running](videos/serial-monitor-demo.mp4)
 
 ## Behaviour
 
